@@ -29,8 +29,7 @@
            VALUES('$certificate_type','$issued_by','$year_issued','$date_uploaded','$attachment_file')
            ";
            mysqli_query($db,$query);
-           header('Location:index.php')
-
+           header('Location:index.php');
         }
      }
     
