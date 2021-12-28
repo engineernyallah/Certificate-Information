@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Registration Form</title>
+    <title>Certificate Registration Form</title>
    <style>
         input, select {
             -webkit-box-sizing: border-box;
